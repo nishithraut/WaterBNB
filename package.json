@@ -1,4 +1,7 @@
 {
+  "engines":{
+    "node": "v18.18.2"
+  },
   "name": "waterbnb",
   "version": "1.0.0",
   "description": "{\r   \"name\": \"zirbnb\",\r   \"version\": \"1.0.0\",\r   \"description\": \"\",\r   \"main\": \"index.js\",\r   \"scripts\": {\r     \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\r   },\r   \"keywords\": [],\r   \"author\": \"\",\r   \"license\": \"ISC\",\r   \"dependencies\": {\r     \"ejs\": \"^3.1.10\",\r     \"ejs-mate\": \"^4.0.0\",\r     \"express\": \"^4.21.0\",\r     \"method-override\": \"^3.0.0\",\r     \"mongoose\": \"^8.6.3\",\r     \"zirbnb\": \"file:\"\r   }\r }",
