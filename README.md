@@ -56,10 +56,11 @@ To run this project on your local machine:
 1. Clone the Repository
 ```git clone https://github.com/your-username/waterbnb.git```
 ```cd waterbnb```
-3. Install Dependencies
 
+3. Install Dependencies
 ```npm install```
-4. Set Up Environment Variables
+
+5. Set Up Environment Variables
 Create a .env file in the root directory and add:
 
 env
@@ -74,10 +75,15 @@ ATLASDB_URL=your_mongodb_atlas_url
 
 secret=your_session_secret
 ```
-4. Run the Server
 
+
+4. Run the Server
 ```node app.js```
+
 Visit the app at http://localhost:8080
+
+
+
 
 ☁️ Deployment on Render
 To deploy your project on Render:
@@ -93,13 +99,13 @@ Click "New Web Service"
 Choose "Deploy from GitHub"
 
 3. Fill In the Details
+   
 Build Command:
-
 ```npm install```
+
 Start Command:
-
-
 ```node app.js```
+
 Environment:
 Add all your .env variables securely in the "Environment Variables" section.
 
