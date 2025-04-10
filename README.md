@@ -54,7 +54,7 @@ secret=your_session_secret
 To run this project on your local machine:
 
 1. Clone the Repository
-```git clone https://github.com/your-username/waterbnb.git```
+```git clone https://github.com/nishithraut/WaterBNB.git```
 ```cd waterbnb```
 
 3. Install Dependencies
