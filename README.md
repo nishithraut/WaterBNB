@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Visit WaterBNB on Render](https://waterbnb-j6kk.onrender.com)
+👉 [Visit WaterBNB on Render](https://waterbnb-j6kk.onrender.com/listings)
 
 ---
 
